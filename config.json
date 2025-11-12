@@ -1,0 +1,13 @@
+{
+    "entrez_email":"",
+    "entrez_api_key":"",
+    "num_of_articles":1,
+    "max_summary_length":350,
+    "min_summary_length":250,
+    "queries":[
+        {"keyword":"renal cancer",
+        "output_file":"renal_cancer.csv"
+        }
+    ]
+    
+}
