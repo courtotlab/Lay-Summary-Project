@@ -38,6 +38,7 @@ Edit the `config.json` file to set the number of articles to be queried from Pub
   "min_summary_length": 250,
   "entrez_email": "your_email@example.com",
   "entrez_api_key": "YOUR_NCBI_API_KEY",
+  "output_directory":"./output",
   "queries": [
     {
       "keyword": "renal cancer",
