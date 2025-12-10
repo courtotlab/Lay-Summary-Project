@@ -40,8 +40,6 @@ HumanAccuracyPlot <- ggplot(df_long, aes(x = Type, y = rating, fill = Type)) +
               test = "wilcox.test",
               map_signif_level = TRUE,
               y_position = 9.2) +
-  # stat_summary(fun.data = "mean_cl_boot", geom = "crossbar",
-               # colour = "red", width = 0.2) +
   labs(title = "Human Accuracy Ratings between Article Types",
        y = "Accuracy Ratings by Human Review",
        x = "Source Article Type") +
