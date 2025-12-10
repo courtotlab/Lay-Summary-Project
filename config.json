@@ -1,6 +1,6 @@
 {
-    "entrez_email":"t2yu@oicr.on.ca",
-    "entrez_api_key":"1e8afc76cc4320f252aaf9c171775dfd0c09",
+    "entrez_email":"INSERT_YOUR_ENTREZ_EMAIL",
+    "entrez_api_key":"INSERT_YOUR_ENTREZ_API_KEY",
     "num_of_articles":1,
     "max_summary_length":350,
     "min_summary_length":250,
